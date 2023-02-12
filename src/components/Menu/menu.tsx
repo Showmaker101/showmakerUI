@@ -1,4 +1,4 @@
-import React, {createContext, HTMLAttributes, InputHTMLAttributes, useState} from 'react';
+import React, {createContext, useState} from 'react';
 import classNames from 'classnames'
 import {MenuItemProps} from './menuItem'
 
